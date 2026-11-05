@@ -14,3 +14,6 @@ Python 3.12, pyTelegramBotAPI, RapidFuzz, python-dotenv, pytest.
 
 ## Тестирование
 Покрытие тестами: 12 сценариев (pytest).
+
+## 🚀 Демо
+Тест-драйв бота: [@Answering_Support](https://t.me/Answering_Support_bot)
