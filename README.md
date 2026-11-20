@@ -18,6 +18,8 @@
 
 ## Тестирование
 Покрытие тестами: 12 сценариев (pytest).
+    Пример работы тестов:
+<img width="969" height="315" alt="Pytests" src="https://github.com/user-attachments/assets/244efcd3-5a75-4cec-afb2-b05866b88d18" />
 
 ## 🚀 Демо
 Тест-драйв бота: [@Answering_Support](https://t.me/Answering_Support_bot)
