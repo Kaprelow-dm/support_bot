@@ -8,6 +8,7 @@
    - Мультикатегорийность (до 3 ответов в одном сообщении).
    - Защита от неадекватных запросов.
    - Удобное меню с кнопками.
+<img width="429" height="921" alt="example" src="https://github.com/user-attachments/assets/2aab7134-096a-421a-8f58-b0fd24017d61" />
 
 ## Стек
    - Python 3.12
